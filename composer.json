@@ -1,11 +1,11 @@
 {
-    "name": "mozgbrasil/cielo-braspag-sdk-php",
+    "name": "mozgbrasil/php-cielo-braspag-sdk",
     "description": "Cielo & Braspag SDK PHP",
     "version": "1.0.0",
     "type": "library",
-    "keywords": ["cerebrum", "mozg", "magento2", "framework", "ubuntu", "php", "mysql"],
+    "keywords": ["cerebrum", "mozg", "cielo", "braspag"],
     "homepage": "http://mozg.com.br",
-    "time": "2016-09-19 17:53:09",
+    "time": "2017-06-02 16:38:45",
     "license": [
         "proprietary"
     ],
@@ -19,12 +19,12 @@
     ],
     "support": {
         "email": "suporte@mozg.com.br",
-        "issues": "https://github.com/mozgbrasil/cielo-braspag-sdk-php/issues",
+        "issues": "https://github.com/mozgbrasil/php-cielo-braspag-sdk/issues",
         "forum": "http://mozg.com.br/forums/view/1",
         "wiki": "http://wiki.mozg.com.br",
         "irc": "irc://irc.freenode.org/mozgbrasil",
-        "source": "https://github.com/mozgbrasil/cielo-braspag-sdk-php",
-        "docs": "https://github.com/mozgbrasil/cielo-braspag-sdk-php/wiki",
+        "source": "https://github.com/mozgbrasil/php-cielo-braspag-sdk",
+        "docs": "https://github.com/mozgbrasil/php-cielo-braspag-sdk/wiki",
         "rss": "https://mozg.com.br/feed.xml"
     },
     "require" : {

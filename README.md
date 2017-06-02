@@ -6,7 +6,7 @@
 [getcomposer]: https://getcomposer.org/
 [uninstall-mods]: https://getcomposer.org/doc/03-cli.md#remove
 
-# Mozg\CieloBraspagSdkPhp
+# Mozg\PHPCieloBraspagSdk
 
 ## Sinopse
 
@@ -22,7 +22,7 @@ Autoloading compatível é [PSR-4][psr4]
 
 ### Para instalar o módulo execute o comando a seguir no terminal do seu servidor
 
-    composer require mozgbrasil/cielo-braspag-sdk-php
+    composer require mozgbrasil/php-cielo-braspag-sdk
 
 -- 
 
@@ -34,7 +34,7 @@ Autoloading compatível é [PSR-4][psr4]
 
 ### Para [desinstalar][uninstall-mods] o módulo execute o comando a seguir no terminal do seu servidor
 
-    composer remove mozgbrasil/cielo-braspag-sdk-php && composer clear-cache && composer update
+    composer remove mozgbrasil/php-cielo-braspag-sdk && composer clear-cache && composer update
 
 ## Perguntas mais frequentes "FAQ"
 
@@ -111,19 +111,19 @@ Como as simulações acima estão funcionais você pode alterar somente o Mercha
 ## Badges
 
 [![Join the chat at https://gitter.im/mozgbrasil](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mozgbrasil/)
-[![Latest Stable Version](https://poser.pugx.org/mozgbrasil/cielo-braspag-sdk-php/v/stable)](https://packagist.org/packages/mozgbrasil/cielo-braspag-sdk-php)
-[![Total Downloads](https://poser.pugx.org/mozgbrasil/cielo-braspag-sdk-php/downloads)](https://packagist.org/packages/mozgbrasil/cielo-braspag-sdk-php)
-[![Latest Unstable Version](https://poser.pugx.org/mozgbrasil/cielo-braspag-sdk-php/v/unstable)](https://packagist.org/packages/mozgbrasil/cielo-braspag-sdk-php)
-[![License](https://poser.pugx.org/mozgbrasil/cielo-braspag-sdk-php/license)](https://packagist.org/packages/mozgbrasil/cielo-braspag-sdk-php)
-[![Monthly Downloads](https://poser.pugx.org/mozgbrasil/cielo-braspag-sdk-php/d/monthly)](https://packagist.org/packages/mozgbrasil/cielo-braspag-sdk-php)
-[![Daily Downloads](https://poser.pugx.org/mozgbrasil/cielo-braspag-sdk-php/d/daily)](https://packagist.org/packages/mozgbrasil/cielo-braspag-sdk-php)
-[![Reference Status](https://www.versioneye.com/php/mozgbrasil:cielo-braspag-sdk-php/reference_badge.svg?style=flat-square)](https://www.versioneye.com/php/mozgbrasil:cielo-braspag-sdk-php/references)
-[![Dependency Status](https://www.versioneye.com/php/mozgbrasil:cielo-braspag-sdk-php/1.0.0/badge?style=flat-square)](https://www.versioneye.com/php/mozgbrasil:cielo-braspag-sdk-php/1.0.0)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/mozgbrasil/cielo-braspag-sdk-php/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/mozgbrasil/cielo-braspag-sdk-php/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/mozgbrasil/cielo-braspag-sdk-php/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/mozgbrasil/cielo-braspag-sdk-php/?branch=master)
-[![Build Status](https://scrutinizer-ci.com/g/mozgbrasil/cielo-braspag-sdk-php/badges/build.png?b=master)](https://scrutinizer-ci.com/g/mozgbrasil/cielo-braspag-sdk-php/build-status/master)
-[![Code Climate](https://codeclimate.com/github/mozgbrasil/cielo-braspag-sdk-php/badges/gpa.svg)](https://codeclimate.com/github/mozgbrasil/cielo-braspag-sdk-php)
-[![Test Coverage](https://codeclimate.com/github/mozgbrasil/cielo-braspag-sdk-php/badges/coverage.svg)](https://codeclimate.com/github/mozgbrasil/cielo-braspag-sdk-php/coverage)
-[![Issue Count](https://codeclimate.com/github/mozgbrasil/cielo-braspag-sdk-php/badges/issue_count.svg)](https://codeclimate.com/github/mozgbrasil/cielo-braspag-sdk-php)
+[![Latest Stable Version](https://poser.pugx.org/mozgbrasil/php-cielo-braspag-sdk/v/stable)](https://packagist.org/packages/mozgbrasil/php-cielo-braspag-sdk)
+[![Total Downloads](https://poser.pugx.org/mozgbrasil/php-cielo-braspag-sdk/downloads)](https://packagist.org/packages/mozgbrasil/php-cielo-braspag-sdk)
+[![Latest Unstable Version](https://poser.pugx.org/mozgbrasil/php-cielo-braspag-sdk/v/unstable)](https://packagist.org/packages/mozgbrasil/php-cielo-braspag-sdk)
+[![License](https://poser.pugx.org/mozgbrasil/php-cielo-braspag-sdk/license)](https://packagist.org/packages/mozgbrasil/php-cielo-braspag-sdk)
+[![Monthly Downloads](https://poser.pugx.org/mozgbrasil/php-cielo-braspag-sdk/d/monthly)](https://packagist.org/packages/mozgbrasil/php-cielo-braspag-sdk)
+[![Daily Downloads](https://poser.pugx.org/mozgbrasil/php-cielo-braspag-sdk/d/daily)](https://packagist.org/packages/mozgbrasil/php-cielo-braspag-sdk)
+[![Reference Status](https://www.versioneye.com/php/mozgbrasil:php-cielo-braspag-sdk/reference_badge.svg?style=flat-square)](https://www.versioneye.com/php/mozgbrasil:php-cielo-braspag-sdk/references)
+[![Dependency Status](https://www.versioneye.com/php/mozgbrasil:php-cielo-braspag-sdk/1.0.0/badge?style=flat-square)](https://www.versioneye.com/php/mozgbrasil:php-cielo-braspag-sdk/1.0.0)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/mozgbrasil/php-cielo-braspag-sdk/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/mozgbrasil/php-cielo-braspag-sdk/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/mozgbrasil/php-cielo-braspag-sdk/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/mozgbrasil/php-cielo-braspag-sdk/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/mozgbrasil/php-cielo-braspag-sdk/badges/build.png?b=master)](https://scrutinizer-ci.com/g/mozgbrasil/php-cielo-braspag-sdk/build-status/master)
+[![Code Climate](https://codeclimate.com/github/mozgbrasil/php-cielo-braspag-sdk/badges/gpa.svg)](https://codeclimate.com/github/mozgbrasil/php-cielo-braspag-sdk)
+[![Test Coverage](https://codeclimate.com/github/mozgbrasil/php-cielo-braspag-sdk/badges/coverage.svg)](https://codeclimate.com/github/mozgbrasil/php-cielo-braspag-sdk/coverage)
+[![Issue Count](https://codeclimate.com/github/mozgbrasil/php-cielo-braspag-sdk/badges/issue_count.svg)](https://codeclimate.com/github/mozgbrasil/php-cielo-braspag-sdk)
 
 :cat2:
