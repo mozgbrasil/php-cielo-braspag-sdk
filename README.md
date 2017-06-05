@@ -8,7 +8,7 @@
 
 # Mozg\PHPCieloBraspagSdk
 
-## Sinopse
+## Sinopse s
 
 SDK de integração a Cielo e Braspag
 
